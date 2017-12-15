@@ -1,0 +1,23 @@
+{
+  "name": "gulp-qiniu2",
+  "description": "gulp上传七牛",
+  "version": "1.0.2",
+  "author": "tony <tangolivesky@163.com>",
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "modify-filename": "^1.1.0",
+    "rev-hash": "^2.0.0",
+    "rev-path": "^2.0.0",
+    "through2": "^2.0.0",
+    "vinyl-file": "^3.0.0"
+  },
+  "deprecated": false,
+  "description": "",
+  "engines": {
+    "node": ">=4"
+  },
+  "files": [
+    "index.js"
+  ],
+  "license": "MIT"
+}
