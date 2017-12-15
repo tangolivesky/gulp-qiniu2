@@ -1,7 +1,7 @@
 {
   "name": "gulp-qiniu2",
   "description": "gulp上传七牛",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "author": "tony <tangolivesky@163.com>",
   "dependencies": {
     "gulp-util": "^3.0.0",

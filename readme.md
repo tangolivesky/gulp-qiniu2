@@ -49,3 +49,5 @@ audio\SDF234LK234JL243HOIUWRE90.mp3
 http://ozvj7mm32.bkt.clouddn.com/projectname/audio/SDF234LK234JL243HOIUWRE90.mp3
 
 
+## 项目地址
+https://github.com/tangolivesky/gulp-qiniu2
